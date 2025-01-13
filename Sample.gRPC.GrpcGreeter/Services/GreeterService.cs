@@ -1,5 +1,4 @@
 using Grpc.Core;
-using Sample.gRPC.GrpcGreeter;
 
 namespace Sample.gRPC.GrpcGreeter.Services
 {
